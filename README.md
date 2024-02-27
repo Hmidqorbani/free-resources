@@ -563,16 +563,4 @@
 24 . [سعید شهریوری](https://www.youtube.com/@saeedshahrivari1586) : ویدیوهای آموزشی در زمینه درس‌های مختلف مهندسی کامپیوتر
 
 25.  [رضا شکرزاد](https://youtube.com/@RezaShokrzad) : آموزش در زمینه علم داده شامل یادگیری ماشین، یادگیری عمیق، تحلیل آماری داده‌ و مصورسازی داده‌ها
-
-
-## مرسی از تمام دوستانی که در توسعه این پروژه مشارکت کردن ❤️
-
-<a href="https://github.com/barnamenevisi/free-resources/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=barnamenevisi/free-resources" />
-</a>
-<p></p>
-
-
-## مشارکت
-
-اگر شما هم فکر می‌کنید محتوای عالی وجود داره که در این ریپازیتوری نیست حتما اون رو اضافه کنید و در توسعه اون به من کمک کنید، دمتون گرم
+26.  
